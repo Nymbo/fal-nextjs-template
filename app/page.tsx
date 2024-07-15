@@ -241,7 +241,7 @@ export default function Home() {
           bg-secondary'>
             <p
               className='text-sm'
-            >⚡️ &nbsp;&nbsp;Check out more models at <span className='font-semibold' >Fal.ai</span>. -&gt;</p>
+            >⚡️ &nbsp;&nbsp;Check out more models here <span className='font-semibold' >Fal.ai</span>. -&gt;</p>
           </div>
         </a>
       </div>
